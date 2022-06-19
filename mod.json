@@ -1,0 +1,9 @@
+{
+  "name": "Erekir Bundles",
+  "displayName": "Erekir Bundles",
+  "author": "yesC48",
+  "description": "Adds descriptions for the new Erekir content.",
+  "version": "0.4",
+  "minGameVersion": "136",
+  "hidden": true
+}

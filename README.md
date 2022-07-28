@@ -1,4 +1,4 @@
-# ErekirBundles
+# Erekir Bundles
 Gives descriptions for the new Erekir content.
 
 # Purpose
